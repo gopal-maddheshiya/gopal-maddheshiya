@@ -2,16 +2,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Gopal%20Maddheshiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20Java%20|%20Backend%20|%20AI&descAlignY=55&descAlign=62" width="100%" />
 
-<a href="https://gopal-maddheshiya.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%E2%96%B6+Executing+Main.java...;%E2%96%B6+Loading+Full-Stack+skills...;%E2%96%B6+Compiling+Backend+services...;%E2%96%B6+System+Ready." alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <a href="https://gopal-maddheshiya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/gopal-maddheshiya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
 </div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="center" align="center">
+      <a href="https://gopal-maddheshiya.vercel.app/">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%E2%96%B6+Executing+Main.java...;%E2%96%B6+Loading+Full-Stack+skills...;%E2%96%B6+Compiling+Backend+services...;%E2%96%B6+System+Ready." alt="Typing SVG" />
+      </a>
+      <br>
+      <br>
+      <a href="https://gopal-maddheshiya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+      <a href="https://github.com/gopal-maddheshiya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding Animation" width="300" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
