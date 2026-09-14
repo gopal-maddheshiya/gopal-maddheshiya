@@ -21,8 +21,7 @@
     </td>
     <td width="65%" valign="top">
       <h3>💻 <code>sys.terminal</code></h3>
-```java
-public class Developer {
+<pre><code class="language-java">public class Developer {
     public static void main(String[] args) {
         String role = "Software Developer & CS Student";
         String[] core = {"Java", "DSA", "Backend", "AI"};
@@ -31,7 +30,7 @@ public class Developer {
         System.out.println("Learning: Advanced System Design & GenAI");
     }
 }
-```
+</code></pre>
       <h3>🛠️ <code>sys.tech_stack</code></h3>
       <p align="center">
         <a href="https://skillicons.dev">
