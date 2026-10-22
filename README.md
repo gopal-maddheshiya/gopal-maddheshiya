@@ -1,10 +1,7 @@
-<!-- Hero Section: Left Animated White Dot-Matrix Portrait + Right Bio -->
+<!-- Hero Section: Left Bio + Right 3D Animated Developer -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="36%" valign="middle" align="center" style="border: none; padding-right: 24px;">
-      <img src="./assets/gopal_white_dots_animated.gif" width="300" alt="Gopal Maddheshiya Animated White Dot-Matrix Portrait" style="border-radius: 20px;" />
-    </td>
-    <td width="64%" valign="middle" style="border: none;">
+    <td width="64%" valign="middle" style="border: none; padding-right: 20px;">
       <h1 style="margin: 0 0 10px 0; font-size: 32px; font-weight: 700; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: -0.5px;">
         Gopal Maddheshiya
       </h1>
@@ -34,6 +31,9 @@
         </a>
         <img src="https://komarev.com/ghpvc/?username=gopal-maddheshiya&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
       </p>
+    </td>
+    <td width="36%" valign="middle" align="center" style="border: none;">
+      <img src="./assets/developer_3d.gif" width="300" alt="3D Animated Developer" style="border-radius: 16px;" />
     </td>
   </tr>
 </table>
