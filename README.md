@@ -1,36 +1,42 @@
-<div align="center">
-
-# Gopal Maddheshiya
-
-<a href="https://gopal-maddheshiya.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=00F0FF&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Desktop+%26+Web+App+Architect;Java+%26+Data+Structures+Specialist;SIH+2026+Agritech+Innovator;B.Tech+CSE+@+SRMU" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <b>Computer Science undergraduate engineering high-performance web systems, desktop software, and algorithmic solutions.</b><br>
-  Focused on clean architecture, low-latency APIs, and production reliability.
-</p>
-
-<p align="center">
-  <a href="https://gopal-maddheshiya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0D1117" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/u/gopal-maddheshiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" />
-  </a>
-  <a href="https://www.linkedin.com/in/gopal-maddheshiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/gopal-maddheshiya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub" />
-  </a>
-  <a href="mailto:gopalmaddheshiya138@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gopal-maddheshiya&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-</p>
-
-</div>
+<!-- Hero Section: Left Animated White Dot-Matrix Portrait + Right Bio -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="36%" valign="middle" align="center" style="border: none; padding-right: 24px;">
+      <img src="./assets/gopal_white_dots_animated.gif" width="300" alt="Gopal Maddheshiya Animated White Dot-Matrix Portrait" style="border-radius: 20px;" />
+    </td>
+    <td width="64%" valign="middle" style="border: none;">
+      <h1 style="margin: 0 0 10px 0; font-size: 32px; font-weight: 700; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: -0.5px;">
+        Gopal Maddheshiya
+      </h1>
+      <div style="margin: 0 0 12px 0; min-height: 28px;">
+        <a href="https://gopal-maddheshiya.vercel.app/">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=00F0FF&center=false&vCenter=true&width=550&lines=Full-Stack+Software+Engineer;Desktop+%26+Web+App+Architect;Java+%26+Data+Structures+Specialist;SIH+2026+Agritech+Innovator;B.Tech+CSE+@+SRMU" alt="Typing SVG" />
+        </a>
+      </div>
+      <p style="margin: 0 0 18px 0; font-size: 14.5px; line-height: 1.6; color: #8b949e;">
+        Computer Science undergraduate engineering high-performance web systems, desktop software, and algorithmic solutions. Passionate about clean architecture, low-latency APIs, and production reliability.
+      </p>
+      <p style="margin: 0;">
+        <a href="https://gopal-maddheshiya.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0D1117" alt="Portfolio" />
+        </a>
+        <a href="https://leetcode.com/u/gopal-maddheshiya/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" />
+        </a>
+        <a href="https://www.linkedin.com/in/gopal-maddheshiya" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/gopal-maddheshiya" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub" />
+        </a>
+        <a href="mailto:gopalmaddheshiya138@gmail.com">
+          <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
+        </a>
+        <img src="https://komarev.com/ghpvc/?username=gopal-maddheshiya&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
